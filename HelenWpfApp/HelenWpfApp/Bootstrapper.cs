@@ -1,11 +1,6 @@
-﻿using Caliburn.Micro;
-using HelenWpfApp.ViewModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using HelenWpfApp.ViewModels;
 using System.Windows;
+using Caliburn.Micro;
 
 namespace HelenWpfApp
 {
@@ -21,7 +16,6 @@ namespace HelenWpfApp
         protected override void OnStartup(object sender, StartupEventArgs e)
         {
             DisplayRootViewFor<ShellViewModel>();
-
         }
     }
 }

@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Helen\Documents\GitHub\Prism-App-in-WPF-MVVM\HelenWpfApp\HelenWpfApp\App.xaml
-1-250345876
+3-1791676760
 
-71547302175
-21-445918122
-Views\ShellView.xaml;
+12346715242
+124-623899782
+Views\FirstChildView.xaml;Views\SecondChildView.xaml;Views\ShellView.xaml;
 
 False
 
